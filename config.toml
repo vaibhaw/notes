@@ -1,0 +1,18 @@
+baseURL = "https://vaibhawchandel.github.io/notes/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "AI.ML.DL"
+theme = "hugo-theme-learn"
+themesdir = "../.."
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = "https://github.com/vaibhawchandel/notes/edit/master/content/"
+  description = "Notes"
+  author = "Vaibhaw Singh Chandel"
+  showVisitedLinks = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
