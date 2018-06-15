@@ -5,7 +5,7 @@ disableToc: true
 
 ## Contributors
 
-Thanks to them <i class="fa fa-heart"></i> for making Open Source Software a better place !
+Thanks to all the contributors! <i class="fa fa-fw fa-heart" style="color:Tomato"></i>
 
 {{% ghcontributors "https://api.github.com/repos/vaibhawchandel/notes/contributors?per_page=100" %}}
 

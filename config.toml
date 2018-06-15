@@ -2,7 +2,6 @@ baseURL = "https://vaibhawchandel.github.io/notes/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "AI.ML.DL"
 theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
@@ -15,18 +14,19 @@ disqusShortname = "vaibhawchandel-notes"
   description = "Notes"
   author = "Vaibhaw Singh Chandel"
   showVisitedLinks = false
+  themeVariant = "blue"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "AI.ML.DL"
 weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-github'></i> Github repo"
+name = "<i class='fab fa-fw fa-github'></i> Github repo"
 identifier = "ds"
 url = "https://github.com/vaibhawchandel/notes"
 weight = 10
