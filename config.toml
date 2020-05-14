@@ -11,7 +11,7 @@ disqusShortname = "vaibhawchandel-notes"
 
 [params]
   editURL = "https://github.com/vaibhawchandel/notes/edit/master/content/"
-  description = "Notes"
+  description = "AIMLDL"
   author = "Vaibhaw Singh Chandel"
   showVisitedLinks = false
   themeVariant = "blue"
@@ -21,7 +21,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "AI.ML.DL"
+title = ""
 weight = 1
 languageName = "English"
 

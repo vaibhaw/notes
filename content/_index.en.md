@@ -1,5 +1,5 @@
 ---
-title: "AI ML DL Notes"
+title: "Vaibhaw :: Notes"
 ---
 
 # Notes on AI ML DL Resources
@@ -26,16 +26,16 @@ title: "AI ML DL Notes"
 * [Datasets]({{%relref "computer-vision/datasets.md"%}})
 * [Links]({{%relref "computer-vision/links.md"%}})
 
-![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow)
+<!-- ![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow) -->
 
-## Contribute
+#### Contribute
 Feel free to update this content, just click the **Edit this page** link displayed on top right of each page, and send a PR (pull request).
 
 {{% notice info %}}
 Your modification will be deployed automatically when merged.
 {{% /notice %}}
 
-## Website
+#### Website
 This current site has been statically generated with Hugo and source code is [available here at GitHub](https://github.com/vaibhawchandel/notes)
 
 {{% notice note %}}
