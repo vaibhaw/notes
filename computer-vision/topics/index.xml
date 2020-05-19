@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on </title>
+    <link>https://vaibhaw.github.io/notes/computer-vision/topics/</link>
+    <description>Recent content in Topics on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Jun 2018 07:30:57 -0400</lastBuildDate>
+    
+	<atom:link href="https://vaibhaw.github.io/notes/computer-vision/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Object Detection</title>
+      <link>https://vaibhaw.github.io/notes/computer-vision/topics/object-detection/</link>
+      <pubDate>Fri, 15 Jun 2018 07:31:39 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/computer-vision/topics/object-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Tracking</title>
+      <link>https://vaibhaw.github.io/notes/computer-vision/topics/object-tracking/</link>
+      <pubDate>Fri, 15 Jun 2018 07:31:42 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/computer-vision/topics/object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>https://vaibhaw.github.io/notes/computer-vision/topics/segmentation/</link>
+      <pubDate>Fri, 15 Jun 2018 07:31:45 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/computer-vision/topics/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose Estimation</title>
+      <link>https://vaibhaw.github.io/notes/computer-vision/topics/pose-estimation/</link>
+      <pubDate>Fri, 15 Jun 2018 07:31:48 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/computer-vision/topics/pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

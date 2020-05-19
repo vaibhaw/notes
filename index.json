@@ -1,0 +1,190 @@
+[
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/topics/object-detection/",
+	"title": "Object Detection",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/",
+	"title": "Computer Vision",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/topics/object-tracking/",
+	"title": "Object Tracking",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/",
+	"title": "Natural Language Processing",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/topics/segmentation/",
+	"title": "Segmentation",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/topics/pose-estimation/",
+	"title": "Pose Estimation",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/topics/",
+	"title": "Topics",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/links/",
+	"title": "Links",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/blogs/",
+	"title": "Blogs",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/datasets/",
+	"title": "Datasets",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/tools/",
+	"title": "Tools",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/books/",
+	"title": "Books",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/courses/",
+	"title": "Courses",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/papers/",
+	"title": "Papers",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/natural-language-processing/talks/",
+	"title": "Talks",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/links/",
+	"title": "Links",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/blogs/",
+	"title": "Blogs",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/datasets/",
+	"title": "Datasets",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/talks/",
+	"title": "Talks",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/tools/",
+	"title": "Tools",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/books/",
+	"title": "Books",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/courses/",
+	"title": "Courses",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/computer-vision/papers/",
+	"title": "Papers",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": " Contributors Thanks to all the contributors! \n.ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @vaibhaw 9 commits   Packages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support  Tooling  Hugo - Static Site framework Learn - Theme Wercker - Continuous deployment  "
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://vaibhaw.github.io/notes/",
+	"title": "Vaibhaw :: Notes",
+	"tags": [],
+	"description": "",
+	"content": " Notes on AI ML DL Resources Hugo-theme-learn is a theme for Hugo, a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is fully designed for documentation.\nEach section contains links to resources such as computer vision\n Sections  Computer Vision Natural Language Processing Machine Learning Deep Learning  Sub-sections  Courses Books Papers Talks Blogs Tools Datasets Links  Contribute Feel free to update this content, just click the Edit this page link displayed on top right of each page, and send a PR (pull request).\nYour modification will be deployed automatically when merged.\n Website This current site has been statically generated with Hugo and source code is available here at GitHub\nAutomatically built and published using Wercker on each commit and hosted on Github Pages. Read more about Automated HUGO deployments with wercker\n "
+}]

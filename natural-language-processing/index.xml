@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Language Processing on </title>
+    <link>https://vaibhaw.github.io/notes/natural-language-processing/</link>
+    <description>Recent content in Natural Language Processing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Jun 2018 07:12:28 -0400</lastBuildDate>
+    
+	<atom:link href="https://vaibhaw.github.io/notes/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>https://vaibhaw.github.io/notes/natural-language-processing/links/</link>
+      <pubDate>Fri, 15 Jun 2018 07:14:49 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/natural-language-processing/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://vaibhaw.github.io/notes/natural-language-processing/blogs/</link>
+      <pubDate>Fri, 15 Jun 2018 07:14:48 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/natural-language-processing/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://vaibhaw.github.io/notes/natural-language-processing/datasets/</link>
+      <pubDate>Fri, 15 Jun 2018 07:14:48 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/natural-language-processing/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://vaibhaw.github.io/notes/natural-language-processing/tools/</link>
+      <pubDate>Fri, 15 Jun 2018 07:14:48 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/natural-language-processing/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://vaibhaw.github.io/notes/natural-language-processing/books/</link>
+      <pubDate>Fri, 15 Jun 2018 07:14:47 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/natural-language-processing/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://vaibhaw.github.io/notes/natural-language-processing/courses/</link>
+      <pubDate>Fri, 15 Jun 2018 07:14:47 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/natural-language-processing/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://vaibhaw.github.io/notes/natural-language-processing/papers/</link>
+      <pubDate>Fri, 15 Jun 2018 07:14:47 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/natural-language-processing/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://vaibhaw.github.io/notes/natural-language-processing/talks/</link>
+      <pubDate>Fri, 15 Jun 2018 07:14:47 -0400</pubDate>
+      
+      <guid>https://vaibhaw.github.io/notes/natural-language-processing/talks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
