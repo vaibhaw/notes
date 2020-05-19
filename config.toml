@@ -1,4 +1,4 @@
-baseURL = "https://vaibhawchandel.github.io/notes/"
+baseURL = "https://vaibhaw.github.io/notes/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
@@ -10,7 +10,7 @@ googleAnalytics = "UA-120896798-1"
 disqusShortname = "vaibhawchandel-notes"
 
 [params]
-  editURL = "https://github.com/vaibhawchandel/notes/edit/master/content/"
+  editURL = "https://github.com/vaibhaw/notes/edit/master/content/"
   description = "AIMLDL"
   author = "Vaibhaw Singh Chandel"
   showVisitedLinks = false
@@ -28,7 +28,7 @@ languageName = "English"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/vaibhawchandel/notes"
+url = "https://github.com/vaibhaw/notes"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
