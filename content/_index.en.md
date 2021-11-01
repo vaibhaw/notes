@@ -11,20 +11,20 @@ title: "Vaibhaw :: Notes"
 {{% /notice %}}
 
 ## Sections
-* [Computer Vision]({{%relref "computer-vision/_index.md"%}})
-* [Natural Language Processing]({{%relref "natural-language-processing/_index.md"%}})
-* [Machine Learning]({{%relref "machine-learning/_index.md"%}})
-* [Deep Learning]({{%relref "deep-learning/_index.md"%}})
+* [Computer Vision]({{relref "computer-vision/_index.md"}})
+* [Natural Language Processing]({{relref "natural-language-processing/_index.md"}})
+* [Machine Learning]({{relref "machine-learning/_index.md"}})
+* [Deep Learning]({{relref "deep-learning/_index.md"}})
 
 ### Sub-sections
-* [Courses]({{%relref "computer-vision/courses.md"%}})
-* [Books]({{%relref "computer-vision/books.md"%}})
-* [Papers]({{%relref "computer-vision/papers.md"%}})
-* [Talks]({{%relref "computer-vision/talks.md"%}})
-* [Blogs]({{%relref "computer-vision/blogs.md"%}})
-* [Tools]({{%relref "computer-vision/tools.md"%}})
-* [Datasets]({{%relref "computer-vision/datasets.md"%}})
-* [Links]({{%relref "computer-vision/links.md"%}})
+* [Courses]({{ relref "computer-vision/courses" }})
+* [Books]({{ relref "computer-vision/books.md" }})
+* [Papers]({{ relref "computer-vision/papers.md" }})
+* [Talks]({{ relref "computer-vision/talks.md" }})
+* [Blogs]({{ relref "computer-vision/blogs.md" }})
+* [Tools]({{ relref "computer-vision/tools.md" }})
+* [Datasets]({{ relref "computer-vision/datasets.md" }})
+* [Links]({{ relref "computer-vision/links.md" }})
 
 <!-- ![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow) -->
 
