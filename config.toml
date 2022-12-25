@@ -15,6 +15,12 @@ disqusShortname = "vaibhawchandel-notes"
   author = "Vaibhaw Singh Chandel"
   showVisitedLinks = false
   themeVariant = "blue"
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = true
+  disableMermaid = false
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+  titleSeparator = "::"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -30,6 +36,17 @@ name = "<i class='fab fa-fw fa-github'></i> Github repo"
 identifier = "ds"
 url = "https://github.com/vaibhaw/notes"
 weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fa fa-fw fa-bullhorn'></i> Credits"
